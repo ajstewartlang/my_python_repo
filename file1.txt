@@ -1,0 +1,153 @@
+Reforms to improve reproducibility and quality must be coordinated across the research ecosystem: The view from the UKRN Local Network Leads
+
+Authors
+
+Suzanne L. K. Stewart
+Corresponding Author 
+School of Psychology, University of Chester, Parkgate Road, Chester CH1 4BJ, UK 
+Email: s.stewart@chester.ac.uk; ORCID: https://orcid.org/0000-0003-2152-0091 
+
+Charlotte R. Pennington
+Institute of Health & Neurodevelopment, School of Psychology, College of Health & Life Sciences, Aston University, Birmingham, B4 7ET, UK
+Email: c.pennington@aston.ac.uk; ORCID: https://orcid.org/0000-0002-5259-642X 
+
+Gonçalo R. da Silva 
+School of Biological Sciences, Queen’s University Belfast, 19 Chlorine Gardens, Belfast BT9 5DL, UK
+Email: grosasdasilva01@qub.ac.uk, ORCID: https://orcid.org/0000-0002-1252-2709 
+
+Nick Ballou 
+Game AI Group, Queen Mary University of London, Mile End Road, London, E1 4NS, UK
+Email: n.b.ballou@qmul.ac.uk; ORCID: https://orcid.org/0000-0003-4126-0696 
+
+Jessica Butler
+Centre for Health Data Science, University of Aberdeen, Aberdeen, AB25 2ZD, UK
+Email: jessicabutler@abdn.ac.uk; ORCID: https://orcid.org/0000-0003-2054-3777 
+
+Zoltan Dienes
+School of Psychology, University of Sussex, Falmer, Brighton BN1 9QH, UK
+Email: Z.Dienes@sussex.ac.uk; ORCID: https://orcid.org/0000-0001-7454-3161 
+
+Caroline Jay
+Department of Computer Science, University of Manchester, Oxford Road, Manchester M13 9PL, UK
+Email: Caroline.Jay@manchester.ac.uk; ORCID: https://orcid.org/0000-0002-6080-1382 
+
+Stephanie Rossit
+School of Psychology, University of East Anglia, Norwich Research Park, Norwich, Norfolk NR4 7TJ, UK
+Email: S.Rossit@uea.ac.uk; ORCID: https://orcid.org/0000-0001-6640-2289  
+
+Anna Samara
+Centre for Thinking & Learning, Institute for Lifecourse Development, School of Human Sciences, University of Greenwich, Old Royal Naval College, Park Row, Greenwich, London, SE10 9LS, UK 
+Email: A.Samara@greenwich.ac.uk; ORCID: https://orcid.org/0000-0001-6503-5181 
+
+UK Reproducibility Network (UKRN) Local Network Leads
+
+
+Abstract
+
+Many disciplines are facing a “reproducibility crisis”, ushering in much discussion about how to improve research integrity, reproducibility, and transparency. A unified effort across all sectors, levels, and stages of the research ecosystem is needed to coordinate goals and reforms that focus on open and transparent research practices, while promoting a more positive incentive culture for all. In this commentary, we - the Local Network Leads of the UK Reproducibility Network - outline our response to the UK House of Commons Science and Technology Committee’s inquiry on research integrity and reproducibility. We argue that the four areas for effective actions are to coordinate: (1) a positive research culture, (2) a unified stance on improving research quality, (3) common foundations for open and transparent research practice, and (4) the routinisation of this practice. For each of these areas, we outline the role that individuals, institutions, funders, publishers, and Government play in shaping the research ecosystem. Working together, these constituent members must also partner with sectoral and coordinating organisations to produce effective and long-lasting reforms that are fit-for-purpose and future-proof. These efforts will strengthen research quality and create research capable of generating far-reaching applications with a sustained impact on society. 
+
+
+Key words: Science and Technology Committee; integrity; reproducibility; transparency; open research; open scholarship; research infrastructure; UK Reproducibility Network
+
+Reforms to improve reproducibility and quality must be coordinated across the research ecosystem: The view from the UKRN Local Network Leads
+
+Introduction
+       There has been increasing scrutiny of the reproducibility and replicability of published research [1-5], two fundamental principles which underpin the credibility, applicability, and societal impact of research findings. Accordingly, in July 2021, the UK House of Commons Science and Technology Committee launched an inquiry into research integrity and reproducibility, stating that while “Government policy has focused on the overall theme of ‘Research Integrity,’ ...the specific issue of reproducible research has been overlooked” [6]. This commentary outlines our response to the inquiry on behalf of the UK Reproducibility Network’s (UKRN) Local Network Leads. The UKRN is a peer-led consortium aiming to ensure that the UK remains a centre for world-leading research [7]. Within its wider advocacy and training work to improve research integrity and reproducibility, the UKRN connects local researchers’ networks, institutional leads representing formal university and research institute UKRN members, and stakeholder organisations such as funders, publishers, and policymakers. 
+       The research ecosystem must seize this opportunity for coordinated change, but to institute effective reforms, ecosystem members must identify common goals and agree on a shared path towards them. We argue that the primary goal should be to improve research quality, and that quality is reinforced and determined by the inherent degree of openness and transparency of research practice, of which reproducibility and replicability are constituent parts. Consequently, open and transparent high-quality research generates greater societal application and impact. The difficult question for all of us in the research ecosystem is, “How do we coordinate our efforts to build a foundation of open and transparent research practice that strengthens research quality?” Here, we attempt to answer this question by outlining the coordinated actions that key research ecosystem members (individual researchers, institutions, funders, publishers, and Government) can take.
+
+Main text
+Coordinating a Positive Culture of Open and Transparent Research Practice
+       Research of poor quality and integrity stems from a lack of awareness and habitual use of poor practices, rather than an intention to mislead. Thus, a national Government committee on research integrity should focus on positive actions and incentives that support local and national progress towards adopting open and transparent research practice, coordinating with institutions to improve working cultures. Relentless pressure to publish and acquire grant funding is commonplace, as is the resulting detriment to researchers’ wellbeing [8]. This pressure is counter-productive; individuals thrive when they feel supported, recognised for effort rather than achievements, and trusted with autonomy. It also incentivises closed and opaque research shortcuts that increase the volume of outputs, but which, simultaneously, harm research quality.
+       Instead, institutions should reward and encourage open and transparent research through their incentive structures, for example, by accounting for such practices in their hiring, induction, probation, promotion, workload, and professional development policies and frameworks (e.g., utilising Résumé for Researchers [9]). Government can, in turn, incentivise institutions by requiring evidence that reforms have been appropriately implemented. Any such policy changes need clear coordination with Equality, Diversity, and Inclusion frameworks.
+        National policies that signal the value of open and transparent research can guide these coordinated efforts. Government should fully execute its commitment, contained in the Research and Development Roadmap [10], to open and transparent research with a specific national policy that incentivises positive, concrete actions, and which mirrors effective practice from other nations. For example, both France [11] and the Netherlands [12] have produced systematic, concrete plans for progressing open and transparent research practice. Indeed, Government can set incentives for individuals, institutions, funders, and publishers to increase engagement with open and transparent research practice through its Higher Education policies, its funding arms, and its own institutions that conduct research and have in-house ethics and governance processes. Such cultural change will be fostered more successfully through mutually reinforced, coordinated incentive mechanisms rather than strict mandates.
+       Similarly, funders can strategically prioritise calls for meta-research and replication projects. This would serve four key purposes: (a) demonstrating to the research community that such areas are valued and important, (b) acquiring new data about effective improvements to research practice to support evidence-based actions, (c) incentivising individuals and institutions to adopt open and transparent research practice and replication work, and (d) shifting incentive structures to reward these activities.
+       The UK Government already recognises through UK Research and Innovation that open access outputs are valuable. This positive cultural change should now be followed by a coordinated, across-the-board effort by publishers to support open access policies and publishing platforms. Funders, institutions (through subscriptions), and individuals (through targeted outlets) can incentivise publishers to broaden and improve open access policies as well as other avenues that elevate open and transparent research practice, like pre-registration, Registered Reports [13], and mandates for sharing data [14], materials, and code [15]. 
+
+Coordinating a Unified Stance for Open and Transparent Research Practice
+       Institutions, guided by sectoral organisations such as Universities UK [16], should coordinate and adopt common policies, guidance, and training for monitoring and improving reproducibility, openness, and quality. For example, UKRN Institutional Leads have worked with Local Network Leads to produce a series of common statements [17] for use by the sector on topics such as research transparency. This collective and collaborative sectoral approach should be informed by the voices of grassroots researchers.
+       Institutions, Government, and others (e.g., Industry) should coordinate the inclusion of open and transparent research practice into their research ethics and governance processes. This should take a flexible approach which recognises that open and transparent practice varies by research area and, therefore, input from individual researchers and coordinating organisations such as UKRN is necessary to ensure that updated processes are sensible and executable and comply with other relevant frameworks (e.g., funder mandates; legal frameworks; data protection).
+
+Coordinating the Foundations for Open and Transparent Research Practice
+       Institutions, funders, and publishers should improve research infrastructure, including coordinated, cross-sector development and/or maintenance of databases, digital storage, servers, software, repositories, and various researcher-led initiatives. Collaboration with individuals and coordinating organisations (e.g., UKRN) would ensure that infrastructure is fit-for-purpose, avoids duplication, and is interoperable.
+       All members of the research ecosystem should understand the role of knowledge in building a strong foundation for open and transparent research practice. Thus, institutions should recognise the diverse range of specialists who make specific contributions to research openness and transparency. This includes (but is not limited to) data managers, research software engineers, statisticians, laboratory managers, technicians, and compliance officers. To ensure a sustained and integrated commitment to improving open and transparent research practice, institutions should establish core-funded positions for these roles with clear routes for career progression and promotion. Funders should support such roles in their schemes, and publishers should promote creditorship to recognise the contributions of these key individuals.
+       Foundational knowledge is relevant for individual researchers, publishers, funders, and Government. Thus, all sectors of the research ecosystem should coordinate and mutually reinforce accessible professional development training in open and transparent research practice (e.g., the UK Data Service’s Learning Hub [18]). Publishers should support or provide training and infrastructure related to the publishing of outputs, including data management, licencing, and digital object identifiers. Similarly, funders should provide accessible training on open and transparent research practices that they require and/or encourage. This should be systematically reviewed and updated to reflect ongoing developments. Accordingly, individual researchers should be supported and incentivised by all others in the research ecosystem to engage in continuous professional development, with an emphasis on open and transparent research practice, including a focus on the digital skills and infrastructure that facilitate such practice. Individuals must take responsibility to ensure their knowledge and skills remain current. However, this can only occur if cultural changes at institutions include the promotion of, and the necessary time for, continuous professional development of research skills for individuals at all career stages, in addition to employing specialists. 
+       In turn, individuals have a responsibility to integrate open and transparent research practice into their teaching and training of students as well as junior researchers whom they manage (see the Framework for Open & Reproducible Research Training [19]). Institutions share this responsibility and can support the longevity of open and transparent research mentoring by coordinating training, positive incentive structures, infrastructure, and policies for workload and promotion.
+       
+Coordinating the routinisation of open and transparent research practice
+       A coordinated effort will ensure that open and transparent research practice becomes routine. All members of the research ecosystem have particular actions they can lead, while reinforcing the others, to integrate openness and transparency into the everyday practice of research. 
+       Individuals must integrate open and transparent practice from the beginning of the research process, including in following relevant ethics and governance processes and in applying for and securing research funding. Individuals should be encouraged to use research infrastructure (e.g., software) and publishing routes (e.g., Registered Reports) that support open and transparent practice throughout the research workflow. 
+       Funders should require a plan for open and transparent research practices in funding applications. Applicants should demonstrate whether and how they will share (for example) research data, original materials and protocols, software and code, research workflows, and pre- and post-publication outputs. Depending on career stage, applicants can also be asked to demonstrate a track record of verifiable open and transparent research practice, or professional development plans to achieve this. Additionally, funders should require confirmation that open and transparent research practices have been followed in funded projects (e.g., in final reports or via Researchfish [20]). Tracking and pooling locations of shared data and other intermediate outputs would allow funders to build searchable databases of available products/outputs and resources that can efficiently support future research and the development of new tools and infrastructure. This would represent an advancement on simply requiring shared data and accessible outputs, in which outputs would also form part of the research infrastructure (e.g., the UK Data Service).
+       Publishers should publish rigorous replication studies, along with tutorials on the process of research that can help individuals, institutions, and others improve their own work. As other actions to expand the adoption of open and transparent research practice take hold, interest in such outputs would continue to increase, and for-profit publishers would be implicitly incentivised by changes in supply-and-demand. Furthermore, digital word-limit-free submission formats that promote full and detailed disclosure of methodology, analytical decisions, and pilot work would encourage researchers to fully communicate essential information for reproducibility and transparency, strengthening research quality. Moreover, editorial policies that centre openness and transparency, including systematically checking for compliance with open and transparent practices, should be developed. If sharing data is required, mandated compliance checks can ensure that data are openly accessible both before and after publication (see American Journal of Political Science [21]). Such checks can include statistical and analysis code reviews as appropriate. Another area is systematically basing the review and selection of outputs on methodological rigour, openness, and transparency (the hallmarks of quality) rather than the novelty or nature of findings.
+       Government, publishers, funders, institutions, and individuals should recognise the value of distributed laboratory networks and collaborative team science in relevant disciplines as models of open and transparent research practice [22, 23]. Such large-scale collaborations have huge and untapped potential for producing impactful, reproducible, and reliable research findings, and for effectively pooling resources to minimise research waste. Government and funders should incentivise such work through financial support.
+
+Outlook
+       As active researchers, we recognise the challenges and the far-reaching opportunities associated with committing to open and transparent research practice in the context of broader cultural changes. The burden of such changes must not rest primarily on individual researchers. Researchers’ behaviours are a response to the structure and incentives of the ecosystem in which they work; thus, it is imperative that other stakeholders such as institutions, funders, publishers, and Government work with and for individuals. To do so, all research ecosystem members must progress concrete actions, such as those that we suggest here, or risk perpetuating a cycle of discussion where little changes and research quality stagnates or deteriorates. This approach should be collaborative, taking advantage of the interconnected nature of the UK higher education system and the existence of coordinating organisations such as UKRN.
+
+
+
+List of abbreviations
+UKRN: UK Reproducibility Network
+
+Declarations
+
+Ethics approval and consent to participate: Not applicable. 
+Consent for publication: Not applicable. 
+Availability of data and materials: This manuscript is associated with a response from the UKRN Local Network Leads to the House of Commons Science and Technology Committee Inquiry on Reproducibility and Research Integrity.
+Competing interests: The authors are Local Network Leads of the UK Reproducibility Network (UKRN): www.ukrn.org. 
+Funding: None.
+Authors' contributions: SLKS and CRP were primarily responsible for drafting the work, with SLKS having primary oversight. All other authors have made a substantial contribution to the conception, writing and/or revision of this work. All authors have approved the final submitted version and have agreed both to be personally accountable for the author's own contributions and to ensure that questions related to the accuracy or integrity of any part of the work, even ones in which the author was not personally involved, are appropriately investigated, resolved, and the resolution documented in the literature. 
+Acknowledgements: We would like to thank Marcus Munafò for his feedback on this commentary. 
+
+
+
+References
+
+1. Dienlin T, Johannes N, Bowman ND, Masur PK, Engesser S, Kümpel AS, et al. An agenda for open science in communication. J Commun. 2020;71:1-26; doi:10.1093/joc/jqz052. 
+
+2. Munafò MR, Nosek BA, Bishop DVM, Button KS, Chambers CD, Percie du Sert N, et al. A manifesto for reproducible science. Nat Hum Behav. 2017;1:0021; doi:10.1038/s41562-016-0021 
+
+3. Niven DJ, McCormick TJ, Straus SE, Hemmelgarn BR, Jeffs L, Barnes TRM, Stelfox HT. Reproducibility of clinical research in critical care: A scoping review. BMC Med. 2018;16:26; doi:10.1186/s12916-018-1018-6. 
+
+4. Open Science Collaboration. Estimating the reproducibility of psychological science. Science. 2015;349:6251; doi:10.1126/science.aac4716. 
+
+5. Metcalfe J, Wheat K, Munafò M, Parry J. Research integrity: A landscape study. Vitae. 2020. https://www.vitae.ac.uk/vitae-publications/reports/research-integrity-a-landscape-study. Accessed 14 Oct 2021.
+
+6. House of Commons Science and Technology Committee. Reproducibility and research integrity inquiry. https://committees.parliament.uk/work/1433/reproducibility-and-research-integrity/. Accessed 14 Oct 2021.
+
+7. UK Reproducibility Network. The UK Reproducibility Network (UKRN). https://www.ukrn.org/. Accessed 14 Oct 2021.
+
+8. Wellcome Trust. What researchers think about the culture they work in. 2020. https://wellcome.org/sites/default/files/what-researchers-think-about-the-culture-they-work-in.pdf. Accessed 14 Oct 2021.
+
+9. The Royal Society. Résumé for Researchers. https://royalsociety.org/topics-policy/projects/research-culture/tools-for-support/resume-for-researchers/. Accessed 14 Oct 2021.
+
+10. HM Government. UK Research and Development Roadmap. 2020. https://www.gov.uk/government/publications/uk-research-and-development-roadmap. Accessed 14 Oct 2021.
+
+11. Ministère de L’Enseignement Supérieur, de la Recherche et de L’Innovation. Second national plan for open science. 2021. https://www.ouvrirlascience.fr/second-national-plan-for-open-science/. Accessed 14 Oct 2021.
+
+12. VSNU, KNAW, & NWO. Strategy Evaluation Protocol. 2020. https://www.nwo.nl/sites/nwo/files/documents/SEP_2021-2027.pdf. Accessed 14 Oct 2021.
+
+13. Stewart SLK,  Mark Rinke E, McGarrigle R, Lynott D, Lunny C, Lautarescu A, et al. Pre-registration and registered reports: a primer from UKRN. 2020; doi:10.31219/osf.io/8v2n7
+
+14. Towse J, Rumsey S, Owen N, Langord P, Jaquiery M, Bolibaugh C. Data sharing: a primer from UKRN. 2020; doi:10.31219/osf.io/wp4zu
+
+15. Turner A, Topor M, Stewart A, Owen N, Kenny AR, Jones A, Ellis D. Open code and software: A primer from UKRN. 2020; doi:10.31219/osf.io/qw9ck.
+
+16. Universities UK. Research concordats and agreements review. 2021. https://www.universitiesuk.ac.uk/topics/research-and-innovation/research-concordats-and-agreements. Accessed 14 Oct 2021. 
+
+17. UK Reproducibility Network. Common statements. https://www.ukrn.org/common-statements/. Accessed 14 Oct 2021.
+
+18. UK Data Service. Learning Hub. https://ukdataservice.ac.uk/learning-hub/. Accessed 14 Oct 2021. 
+
+19. Framework for Open and Reproducible Research Training (FORRT). Framework for Open and Reproducible Research Training. https://forrt.org/. Accessed 14 Oct 2021.
+
+20. Researchfish. Researchfish by interfolio. https://researchfish.com/. Accessed 24 Sep 2021. 
+
+21. American Journal of Political Science. AJPS Verification Policy. https://ajps.org/ajps-verification-policy/. Accessed 24 Sep 2021.
+
+22. Many Primates. Altschul DM, Beran MJ, Bohn M, Call J, DeTroy S, Duguid SJ, et al. Establishing an infrastructure for collaboration in primate cognition research. PLoS One. 2019;14:e0223675; doi:10.1371/journal.pone.0223675 
+
+23. Moshontz H, Campbell L, Ebersole CR, IJzerman H, Urry HL, Forscher PS, et al. The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS. 2018;1:501-515; doi:10.1177%2F2515245918797607
+
+1
+
+
